@@ -61,7 +61,7 @@ export const Question = () => {
   };
 
   const replay = () => {
-    window.location.reload();
+     window.location.reload();
   };
 
   return (
